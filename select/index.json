@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "UNLIMITED BEAT",
+  "base_artist": "水樹奈々",
+  "createdAt": "2026-03-16T12:17:22.318914Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "UNLIMITED BEAT",
+      "artist": "Nana Mizuki",
+      "has_synced": true,
+      "path": "select/01_UNLIMITED_BEAT_Nana_Mizuki.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "UNLIMITED BEAT",
+      "artist": "水樹奈々",
+      "has_synced": false,
+      "path": "select/02_UNLIMITED_BEAT_水樹奈々.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "UNLIMITED BEAT",
+      "artist": "Mizuki, Nana",
+      "has_synced": false,
+      "path": "select/03_UNLIMITED_BEAT_Mizuki,_Nana.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "UNLIMITED BEAT",
+      "artist": "水樹 奈々",
+      "has_synced": false,
+      "path": "select/04_UNLIMITED_BEAT_水樹_奈々.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "UNLIMITED BEAT",
+      "artist": "水樹 奈々",
+      "has_synced": false,
+      "path": "select/pl_01_UNLIMITED_BEAT_水樹_奈々.txt"
+    }
+  ]
+}
